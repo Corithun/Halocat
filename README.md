@@ -1,10 +1,7 @@
 # Halocat  
 <div align="center">
-		<img src="halokitty.png" height="80px" width="80px" alt="Halocat">
+		<img src="halokitty.png" height="140px" width="140px" alt="Halocat">
 	<h2>Defense and monitoring for the M5 stick C Plus 2</h2>
-	<p align="center">
-		<p>Open Source, modern, and easy-to-use HR and Payroll Software</p>
-	</p>
 
 </div>
 
