@@ -7,3 +7,5 @@ When the RSSI drops below -98, the alarm system is detected and a decoy wifi net
 You can view a simplified version of the signal on the go using a discord webhook, though the M5 stick cannot support requests, I've inserted a script that displays the current RSSI as an SSID.
 The CRC code on the side attempts to turn every one of the SSIDs into an intager, as most people don't set their own SSIDs to a number, and upon finding one which is a number sends a request to a discord webhook.
 One thing to note is that the "problematic.pyw" is written for windows.
+Be sure to edit the wifi password and ssid in main.py for the M5 stick, also be sure to edit the discord webhook in problematic.pyw
+
