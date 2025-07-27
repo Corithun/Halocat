@@ -1,4 +1,5 @@
 # Halocat
+![!](halokitty.gif)
 An open-source wifi RSSI monitor and security system
 Burning this project through the M5 stack store wouldn't quite work as the defense part of this relies on the Wifi SSID being used as a variable, but to my knowledge the network module doesn't directly support that.
 This is a defense system meant to protect against attacks from the Pwnagotchi and such arp spoofing/deauth attacks.
