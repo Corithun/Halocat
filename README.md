@@ -1,5 +1,14 @@
 # Halocat  
-![!](halokitty.png)
+<div align="center">
+	<a href="https://frappe.io/hr">
+		<img src=".github/halokitty.png" height="80px" width="80px" alt="Frappe HR Logo">
+	</a>
+	<h2>Frappe HR</h2>
+	<p align="center">
+		<p>Open Source, modern, and easy-to-use HR and Payroll Software</p>
+	</p>
+
+</div>
 
 
 
