@@ -1,6 +1,5 @@
-# Halocat
-
-                                          ![!](halokitty.png)
+# Halocat  
+![!](halokitty.png)
 
 
 
