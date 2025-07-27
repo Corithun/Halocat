@@ -1,9 +1,7 @@
 # Halocat  
 <div align="center">
-	<a href="https://frappe.io/hr">
-		<img src=".github/halokitty.png" height="80px" width="80px" alt="Frappe HR Logo">
-	</a>
-	<h2>Frappe HR</h2>
+		<img src="halokitty.png" height="80px" width="80px" alt="Halocat">
+	<h2>Defense and monitoring for the M5 stick C Plus 2</h2>
 	<p align="center">
 		<p>Open Source, modern, and easy-to-use HR and Payroll Software</p>
 	</p>
