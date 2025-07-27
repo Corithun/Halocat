@@ -1,6 +1,6 @@
 # Halocat  
 <div align="center">
-		<img src="halokitty.png" height="140px" width="140px" alt="Halocat">
+		<img src="halokittycat.png" height="140px" width="140px" alt="Halocat">
 	<h2>Defense and monitoring for the M5 stick C Plus 2</h2>
 
 </div>
